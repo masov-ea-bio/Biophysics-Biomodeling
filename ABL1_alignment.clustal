@@ -1,0 +1,142 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+sp|P00519.4|ABL1_HUMAN      ----------------MLEICLKLVGCKSKKGLSSS-SSCYLEEALQRPVASDFEPQGLS	43
+sp|P41240.1|CSK_HUMAN       -----------------------------------------------------------M	1
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	0
+sp|P12931.3|SRC_HUMAN       MGSNKSKPKDASQRRRSLEPAENVHGAGGGAFPASQTPSKPASADGHRGPSAAFAPAAAE	60
+sp|P00520.3|ABL1_MOUSE      ----------------MLEICLKLVGCKSKKGLSSS-SSCYLEEALQRPVASDFEPQGLS	43
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      --EAARWNS----KENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNG	97
+sp|P41240.1|CSK_HUMAN       SAIQAAWP----------------SGTECIAKYNFHGTAEQDLPFCKGDVLTIVAVTKDP	45
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	0
+sp|P12931.3|SRC_HUMAN       PKLFGGFNSSDTVTSPQRAGPLAGGVTTFVALYDYESRTETDLSFKKGERLQIVNNTEGD	120
+sp|P00520.3|ABL1_MOUSE      --EAARWNS----KENLLAGPSENDPNLFVALYDFVASGDNTLSITKGEKLRVLGYNHNG	97
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      EWCEAQT-KNGQGWVPSNYITPVNS------LEKHSWYHGPVSRNAAEYLLSS--GINGS	148
+sp|P41240.1|CSK_HUMAN       NWYKAKNKVGREGIIPANYVQKREGVKAGTKLSLMPWFHGKITREQAERLLYP--PETGL	103
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	0
+sp|P12931.3|SRC_HUMAN       WWLAHSLSTGQTGYIPSNYVAPSDS------IQAEEWYFGKITRRESERLLLNAENPRGT	174
+sp|P00520.3|ABL1_MOUSE      EWCEAQT-KNGQGWVPSNYITPVNS------LEKHSWYHGPVSRNAAEYLLSS--GINGS	148
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      FLVRESESSPGQRSISLRY-----EGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHS	203
+sp|P41240.1|CSK_HUMAN       FLVRESTNYPGDYTLCVSC-----DGKVEHYRIMYH-ASKLSIDEEVYFENLMQLVEHYT	157
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	0
+sp|P12931.3|SRC_HUMAN       FLVRESETTKGAYCLSVSDFDNAKGLNVKHYKIRKLDSGGFYITSRTQFNSLQQLVAYYS	234
+sp|P00520.3|ABL1_MOUSE      FLVRESESSPGQRSISLRY-----EGRVYHYRINTASDGKLYVSSESRFNTLAELVHHHS	203
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      TVADGLITTLHYPAPKRNKPTVYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKK	263
+sp|P41240.1|CSK_HUMAN       SDADGLCTRLIKPKVMEGTVAAQ-DEFYRSGWALNMKELKLLQTIGKGEFGDVMLGDYRG	216
+sp|P04637.4|P53_HUMAN       -------------------------------MEEPQSDPSVEP-----------------	12
+sp|P12931.3|SRC_HUMAN       KHADGLCHRLTTVCPTS-KPQTQG--LAKDAWEIPRESLRLEVKLGQGCFGEVWMGTWNG	291
+sp|P00520.3|ABL1_MOUSE      TVADGLITTLHYPAPKRNKPTIYGVSPNYDKWEMERTDITMKHKLGGGQYGEVYEGVWKK	263
+                                                                 .  :                   
+
+sp|P00519.4|ABL1_HUMAN      YSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTRE-PPFYIITEFMTYGN	322
+sp|P41240.1|CSK_HUMAN       N--KVAVKCIKND-ATAQAFLAEASVMTQLRHSNLVQLLGVIVEEKGGLYIVTEYMAKGS	273
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	12
+sp|P12931.3|SRC_HUMAN       T-TRVAIKTLKPGTMSPEAFLQEAQVMKKLRHEKLVQLYAVVS-E-EPIYIVTEYMSKGS	348
+sp|P00520.3|ABL1_MOUSE      YSLTVAVKTLKEDTMEVEEFLKEAAVMKEIKHPNLVQLLGVCTRE-PPFYIITEFMTYGN	322
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      LLDYLRECNRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADF	382
+sp|P41240.1|CSK_HUMAN       LVDYLRSRGRSVLGGDCLLKFSLDVCEAMEYLEGNNFVHRDLAARNVLVSEDNVAKVSDF	333
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	12
+sp|P12931.3|SRC_HUMAN       LLDFLKGETGKYLRLPQLVDMAAQIASGMAYVERMNYVHRDLRAANILVGENLVCKVADF	408
+sp|P00520.3|ABL1_MOUSE      LLDYLRECNRQEVSAVVLLYMATQISSAMEYLEKKNFIHRDLAARNCLVGENHLVKVADF	382
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      GLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPG	442
+sp|P41240.1|CSK_HUMAN       GLTKEAS----STQDTGKLPVKWTAPEALREKKFSTKSDVWSFGILLWEIYSFGRVPYPR	389
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	12
+sp|P12931.3|SRC_HUMAN       GLARLIEDNEYTARQGAKFPIKWTAPEAALYGRFTIKSDVWSFGILLTELTTKGRVPYPG	468
+sp|P00520.3|ABL1_MOUSE      GLSRLMTGDTYTAHAGAKFPIKWTAPESLAYNKFSIKSDVWAFGVLLWEIATYGMSPYPG	442
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      IDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSI	502
+sp|P41240.1|CSK_HUMAN       IPLKDVVPRVEKGYKMDAPDGCPPAVYEVMKNCWHLDAAMRPSFLQLREQLEHIKTHELH	449
+sp|P04637.4|P53_HUMAN       -----------------------PLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDD	49
+sp|P12931.3|SRC_HUMAN       MVNREVLDQVERGYRMPCPPECPESLHDLMCQCWRKEPEERPTFEYLQAFLEDYFTSTEP	528
+sp|P00520.3|ABL1_MOUSE      IDLSQVYELLEKDYRMERPEGCPEKVYELMRACWQWNPSDRPSFAEIHQAFETMFQESSI	502
+                                                       : :   *:     .         ::        
+
+sp|P00519.4|ABL1_HUMAN      SDE-VEKELGKQGVRGAVSTLLQAPELPTKTRTSRRAAEHRDTTDVPEMPHSKGQGESDP	561
+sp|P41240.1|CSK_HUMAN       L-----------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       IEQWFTEDPGPD----------EAPRMPEAA-------------------PPVAPAPAAP	80
+sp|P12931.3|SRC_HUMAN       QYQ-PGENL---------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      SDE-VEKELGKRGTRGGAGSMLQAPELPTKTRTCRRAAEQKDAPDTPELLHTKGLGESDA	561
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      LDHEPAVSPLLPRKERGPPE----GGLNEDERLLPKD-----------KKTNLFSALIKK	606
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       TPAAPAPAPSWPLSSSVPSQKTYQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKT	140
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      LDSEPAVSPLLPRKERGPPD----GSLNEDERLLPRD-----------RKTNLFSALIKK	606
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      KK---KTAPTPPKRSSSFREMDGQPERRGAGEEEGRDISNGALAFTPLDTADPAKSPKPS	663
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       CPVQLWVDSTPPP-GTRVRAMAIYKQSQHMTE--VVRRCPH------------HERCSDS	185
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      KK---KMAPTPPKRSSSFREMDGQPDRRGASEDDSRELCNGPPALT-SDAAEPTKSPKAS	662
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      NGAGVPNGALRESGGSGFRSPHLWKKSSTLTSSRLAT--GEEEGGGSSSKRFLRSCSASC	721
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       DGLAPPQHLIRVEGNLRVE---YLDDRNTFRHSVVVPYEPPEVGSDCTTIHYNYMCNSSC	242
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      NGAGVPNGAFREPGNSGFRSPHMWKKSSTLTGSRLAA--AEEESGMSSSKRFLRSCSASC	720
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      VPHGAKDTEWRSVTLPRDLQSTGRQFDSSTFGGHKSEKPALPRKRAGENRSDQVTRGTVT	781
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       MGGMNRRPILTIITLED---SSGNLLGRNSFEVRVCACPGRDRRTEEENLRKKGEPHHEL	299
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      MPHGARDTEWRSVTLPRDLPSAGKQFDSSTFGGHKSEKPALPRKRTSESRSEQVAKSTAM	780
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      PPPRLVKKNEEAADEVFKDIMESSPGSSPPNLTPKPLRRQVTVAPASGLPHKEEAGKGSA	841
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       PPG-STKR-------ALPNNTSSS-----PQPKKKPLDGEYFTLQIRGRERFEM-FR---	342
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      PPPRLVKKNEEAAEEGFKDT-ESSPGSSPPSLTPKLLRRQVTASPSSGLSHKEEATKGSA	839
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      --LGTPAAAEPVTPTSKAGSGAPGGTSKGPA--------EESRVRRHKHSSESPGRDKGK	891
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       -ELN-----EALELKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDSD---	393
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      SGMGTPATAEPAPPSNKVG------LSKASS--------EEMRVRRHKHSSESPGRDKGR	885
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      LSRLKPAPPPPPAASAGKAGGKPSQSPSQEAAGEAVLGAKTKATSLVDAVNSDAAKPSQP	951
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	393
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      LAKLKPAPPPPPACTG--KAGKPAQSPSQEAGEAGGPTKTKCTSLAMDAVNTDPTKAGPP	943
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      GEGLKKPVLPATPKPQS-AKPSGTPISPAPVPSTLPSASSALAGDQPSSTAFIPLISTRV	1010
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	393
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      GEGLRKPVPPSVPKPQSTAKPPGTPTSPVSTPSTAPAPSPLAGDQQPSSAAFIPLISTRV	1003
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      SLRKTRQPPERIASGAITKGVVLDSTEALCLAISRNSEQMASHSAVLEAGKNLYTFCVSY	1070
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	393
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      SLRKTRQPPERIASGTITKGVVLDSTEALCLAISRNSEQMASHSAVLEAGKNLYTFCVSY	1063
+                                                                                        
+
+sp|P00519.4|ABL1_HUMAN      VDSIQQMRNKFAFREAINKLENNLRELQICPATAGSGPAATQDFSKLLSSVKEISDIVQR	1130
+sp|P41240.1|CSK_HUMAN       ------------------------------------------------------------	450
+sp|P04637.4|P53_HUMAN       ------------------------------------------------------------	393
+sp|P12931.3|SRC_HUMAN       ------------------------------------------------------------	536
+sp|P00520.3|ABL1_MOUSE      VDSIQQMRNKFAFREAINKLESNLRELQICPATASSGPAATQDFSKLLSSVKEISDIVRR	1123
+                                                                                        
